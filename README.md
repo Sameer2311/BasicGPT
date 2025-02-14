@@ -1,7 +1,7 @@
 
-# DUMB GPT LLM
+# BASIC GPT
 
-About Dumb GPT :
+About BASIC GPT :
 
 This is a learning project created by me.   
 
